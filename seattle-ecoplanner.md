@@ -739,4 +739,4 @@ seattle-ecoplanner/
 
 ---
 
-*Case study from the GenAI Cloud Engineer Track Final Assessment — demonstrating enterprise-scale GenAI architecture for urban planning*
+*Case study demonstrating enterprise-scale GenAI architecture for urban planning*

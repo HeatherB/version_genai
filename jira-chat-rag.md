@@ -1,4 +1,4 @@
-# J_Chat: JIRA Ticket Q&A System
+# JIRA_Chat: JIRA Ticket Q&A System
 ## Case Study: RAG-Powered IT Support Knowledge Base
 
 ---
@@ -83,7 +83,7 @@ Build a **Retrieval-Augmented Generation (RAG) system** that:
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│                         J_CHAT SYSTEM                         │
+│                         JIRA_CHAT SYSTEM                         │
 │                                                               │
 │  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐      │
 │  │   DATA      │    │  EMBEDDING  │    │   VECTOR    │      │
@@ -311,9 +311,9 @@ Non-blocking API calls with httpx:
 
 ```python
 async def llm(prompt):
-    """Async call to GenAICenter GPT-4 endpoint"""
+    """Async call to genAI endpoint"""
     
-    url = "https://genaicenterapim.deloitte.com/ext-proxy/openai/deployments/gpt-4-0613/chat/completions"
+    url = "#####"
     
     headers = {
         "api-key": api_key,
@@ -424,7 +424,7 @@ A: Looking at past incidents, the standard password reset involves...
 ## 📁 Project Structure
 
 ```
-J_Chat/
+JIRA_Chat/
 ├── main.py                    # Entry point, RAG chain orchestration
 ├── config.py                  # Environment setup
 ├── requirements.txt           # Dependencies
@@ -468,4 +468,4 @@ J_Chat/
 
 ---
 
-*Case study from the GenAI JIRA Project — demonstrating RAG patterns for IT support knowledge management*
+*Case study demonstrating RAG patterns for IT support knowledge management*
