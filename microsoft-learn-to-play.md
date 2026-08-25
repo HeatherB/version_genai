@@ -1,6 +1,8 @@
 # Learn to Play: Interactive Gaming Tutorial Platform
 ## Case Study: Xbox Game Studios — Age of Empires
 
+> *Note: Code patterns simplified for illustration. Implementation details reflect architectural decisions, not production code.*
+
 ---
 
 ## 🎯 Problem

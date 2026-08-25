@@ -1,6 +1,8 @@
 # AOE Translator: Automated Localization Platform
 ## Case Study: Xbox Game Studios — Enterprise Content Management
 
+> *Note: Code patterns simplified for illustration. Implementation details reflect architectural decisions, not production code.*
+
 ---
 
 ## 🎯 Problem
@@ -145,7 +147,7 @@ function my_admin_translator_add_translate() {
 
 ```javascript
 // Batch translation with HTML preservation
-const urlBase = 'https://webapi.ageofempires.com/api/Translator';
+const urlBase = '[internal-translation-api-endpoint]';
 
 let request_data = {
   "RequestText": content_to_translate,
