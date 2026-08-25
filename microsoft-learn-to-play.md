@@ -3,6 +3,8 @@
 
 > *Note: Code patterns simplified for illustration. Implementation details reflect architectural decisions, not production code.*
 
+**🔗 Live Demo:** [ageofempires.com/learn-to-play](https://www.ageofempires.com/learn-to-play/getting-started-aoe2/)
+
 ---
 
 ## 🎯 Problem
@@ -208,14 +210,8 @@ User clicks hotspot
 
 ## 🖼️ Screenshots
 
-<!-- PLACEHOLDER: Desktop view showing interactive map with hotspots -->
-![Learn to Play Desktop View](screenshots/Learn_to_Play/learn2play-desk-red.jpg)
-
-<!-- PLACEHOLDER: Mobile responsive view -->
-
-<!-- PLACEHOLDER: Video section with timestamp markers -->
-
-<!-- PLACEHOLDER: Progress tracking UI -->
+<!-- PLACEHOLDER: Page view showing interactive map with hotspots -->
+![Learn to Play Page](screenshots/ltp/interface.png)
 
 ---
 
