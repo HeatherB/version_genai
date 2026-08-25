@@ -264,10 +264,7 @@ Source Post (English)
 ## 🖼️ Screenshots
 
 <!-- PLACEHOLDER: Admin UI showing translation service widget with language checkboxes -->
-
-<!-- PLACEHOLDER: Lock/unlock state visualization -->
-
-<!-- PLACEHOLDER: Success notification after batch translation -->
+![Translation Service](screenshots/translator/post.png)
 
 ---
 
